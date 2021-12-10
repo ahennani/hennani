@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/-Ahmed%20HENNANI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-hennani/)](https://www.linkedin.com/in/ahmed-hennani/)  [![](https://img.shields.io/badge/-@hennani-%23181717?style=flat-square&logo=github)](https://github.com/hennani)
- [![](https://img.shields.io/badge/-@ah%5Fhnaniii-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ah_hnaniii)
 
 
 I am a beginner .NET Developer who is very passionate about .NET and looking forward to master the web development with ASP.NET. You will find here some of the projects I built (and still) with .NET Core & HTML/CSS/JS.
